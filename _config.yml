@@ -1,7 +1,7 @@
 # Site settings
 title: PIRATE'S KINGDOM
 SEOTitle:  Blog of PIRATE
-header-img: img/post-bg-desk.jpg
+header-img: img/my/programer.jpg
 email: linhx9@mail2.sysu.edu.cn
 description: "Every failure is leading towards success."
 keyword: "AI, Deep Learning, Computer Vision, Life"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/Piratelhx/Piratelhx.github.io" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Never Give up!"
-sidebar-avatar: /img/mine.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/my/mine.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
