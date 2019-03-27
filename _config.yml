@@ -57,9 +57,9 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: piratelhx
+# disqus_username: piratelhx
 
-Gitalk
+# Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 9c497c00b1c4ddc1aa12                            #生成的clientID
