@@ -63,7 +63,7 @@ kramdown:
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 9c497c00b1c4ddc1aa12                            #生成的clientID
-  clientSecret: 0d5465b5ff2b535d089366725ece9def58d5a231    #生成的clientSecret
+  clientSecret: 8deab7e0fca0726c7aaa43b142a81f0be3441299    #生成的clientSecret
   repo: Piratelhx.github.io    #仓库名称
   owner: Piratelhx    #github用户名
   admin: Piratelhx
