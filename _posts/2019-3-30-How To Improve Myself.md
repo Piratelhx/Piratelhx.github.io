@@ -11,7 +11,6 @@ tags:
     - Programing
     - Math
 ---
-> 研一下学期的任务安排, 2019.3.30初步计划, 后续持续更新且跟进.
 ### 编程能力
 - C++ primer中文版
 - [数据结构与算法 B站教程](https://www.bilibili.com/video/av29175690?from=search&seid=1043976744218258238)
