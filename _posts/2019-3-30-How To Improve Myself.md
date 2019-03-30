@@ -11,6 +11,7 @@ tags:
     - Programing
     - Math
 ---
+## 2019.3.30初步计划，完成度实时更新且跟进
 ### 编程能力
 - C++ primer中文版
 - [数据结构与算法 B站教程](https://www.bilibili.com/video/av29175690?from=search&seid=1043976744218258238)
