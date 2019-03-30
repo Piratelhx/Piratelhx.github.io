@@ -11,14 +11,14 @@ tags:
     - Programing
     - Math
 ---
-## 编程能力
+### 编程能力
 - C++ primer中文版
 - [数据结构与算法 B站教程](https://www.bilibili.com/video/av29175690?from=search&seid=1043976744218258238)
 - 算法导论
-## 基础数学
+### 基础数学
 - [李宏毅 深度学习 B站教程](https://www.bilibili.com/video/av35757082/?p=18)
 - [Andrew Ng CS229](http://cs229.stanford.edu/syllabus.html)
-## 书单
+### 书单
 - 如何阅读一本书
 - 活着
 - 少有人走的路
